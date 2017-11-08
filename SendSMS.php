@@ -1,8 +1,5 @@
 <?php
 
-# Copyright 2013 CardBoardFish
-# http://www.cardboardfish.com/
-# See readme.txt for terms of use. 
 
 $errstr = "";
 $errcode = 0;
