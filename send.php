@@ -1,7 +1,7 @@
 <?php
 
 
-print "$destination";
+print "Start";
 require_once("SendSMS.php");
 
 $sms_username = "";
