@@ -2,10 +2,9 @@
 
 
 print "Start";
-require_once("SendSMS.php");
+require_once("http://5.196.220.113/");
 
-$sms_username = "";
-$sms_password = "";
+
 print "Sending SMS  ";
 
 
